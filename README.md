@@ -1,2 +1,0 @@
-# farmbot
-farmmmbottt
